@@ -4,4 +4,8 @@
   </a>
 </p>
 
-<div align="center">\
+<div align="center">
+
+$\color{#31d68a}\textsf{キッスランド}$
+
+<div align="center">
