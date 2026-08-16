@@ -6,6 +6,6 @@
 
 <div align="center">
 
-$\color{#31d68a}\textsf{キッスランド}$
+$\color{#31d68a}\textsf{when i got on stage, she swore i was six feet tall}$
 
 <div align="center">
